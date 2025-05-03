@@ -1,7 +1,7 @@
-public class Sample
-{
-	public static void main(string args[])
-	{
-		System.out.void main("salendra sravan");
-	}
+public class Sample 
+{ 
+public static void main(String args[]) 
+{ 
+System.out.println("sravan kumar"); 
+} 
 }
